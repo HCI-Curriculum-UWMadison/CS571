@@ -1,63 +1,77 @@
 ---
-title: Overview
+title: Home
 nav_order: 1
 ---
+# Welcome to CS-639 Building User Interfaces
 
-## Welcome to CS-571 Building User Interfaces!
+## What is this class about?
+This is a relatively new class developed by Professor Mutlu, first offered in Fall 2019 and in Fall 2020 for the second time, to introduce CS undergraduates to the wonderful world of **User Experience (UX) development**.
 
-This course introduces graduate students in computer science, psychology, educational psychology, and other disciplines research topics, principles, and research methods in human-computer interaction (HCI), *an interdisciplinary area concerned with the study of the interaction between humans and interactive computing systems*. Research in HCI looks at major social, cognitive, and physical phenomena surrounding human use of computers with the goal of understanding their impact and creating guidelines for the design and evaluation of software and physical products and services in industry.
+<img src="https://www.seeresponse.com/wp-content/uploads/2019/02/ui-ux-design-graphic.jpg" width="450" align="center" />
 
-The course consists of three modules: (1) **seminar**, which reviews major research topics in HCI through a set of readings, class presentations, and discussions; (2) **methods**, which covers qualitative and quantitative human-subjects research through lectures, tutorials, hands-on activities, and weekly assignments; and (3) **project**, where students complete a semester-long project, usually involving empirical research, that culminates in the writing of a short paper. Below is a visual overview of the topics that will be covered in the seminar and methods modules.
+But what is UX development? Sometimes called front-end development, UX development its between traditional software development and UX design. Let's hear about it from an [actual UX developer]([UX development](https://uxmag.com/articles/hi-im-a-ux-developer-youre-a-what))::
 
-![Screen Shot 2020-01-17 at 10.12.20 AM](figures/Screen Shot 2020-01-17 at 10.12.20 AM.png)
+> The realm of the UX developer exists somewhere between that of the traditional developer and the designer. We’re not really designers, yet to be a good UX developer you certainly need to have an eye for design. In the same vein, we’re not traditional developers but we certainly need to have development experience and expertise. Often this experience spans multiple technologies, languages, and platforms.
 
+> It falls on the UX developer to bridge the gap between design and technology. We need to be able to think and speak the language of designers. It’s our job to help translate their vision to the development team in a way that they can understand and accept. This can be a critical piece of the puzzle in a project, especially if the design and the interactions behind it are complex.
 
+> Similarly, we need to speak on behalf the developers to help reign in the designers, at times. If they are coming up with concepts that will be extremely difficult or time consuming to implement, we can explain the limitations of the technology and the complexity involved in implementing their designs, and try to come up with an acceptable alternative.
 
-### Course Resources
+> — Tim R. Todish
+
+With UX development skills, you can become better software developers with an eye for design and the ability to speak the language that UX designers speak. Alternatively, you can become a UX designer by strengthening your design skills, for example, by taking CS-570.
+
+## What will I learn in this class?
+As an introduction to UX development, the course will cover the (1) programming skills you will need to prototype and build user-facing applications and (2) design skills you will need to understand user needs, devise solutions, and test how well they work. The design skills, under the category **design**, are introduced on Tuesdays, and the programming skills, under the category **build**, are introduced on Thursdays. Across three modules, you will focus on **web**, **mobile**, and **voice** interfaces. For each module, we will use the programming framework that is most commonly used in the software development industry. Below is a visual breakdown of the topics.
+
+<img src="figures/Topics.png" width="800" />
+
+## Who should be taking this class?
+Anyone pursuing a CS major or certificate who has taken CS-400 or an equivalent class.
+
+## What do I need to know/have?
+Intermediate knowledge of Java, basic knowledge of HTML and CSS, and tools that are outlined in the [technology requirements page](technology.html).
+
+## Ok, great. What's next?
+
+The majority of the course content can be found on this website, and links below provide additional resources for lectures, assignments, and course communication.
+
+### Course Access
+
+The course can be taken in three formats: (1) in class, (2) online, synchronously (through streamed lectures and live Q&A), and (3) online, asynchronously (through recorded lectures). 
+
 
 <table>
 <tr>
 	<td>
-		<span class="fs-3"><a class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620">Course Canvas Page</a></span>
+		<a class="label" href="">Course time & location</a>
 	</td>
 	<td>
-		<span class="fs-3"><a class="btn btn-blue" href="http://piazza.com/wisc/spring2020/cspsychedpsych770/home">Course Piazza Page</a></span>
+		MW 4:00-5:15 pm, Humanities 3650
 	</td>
 	<td>
-		<span class="fs-3"><a class="btn btn-blue" href="mailto:hci-class@cs.wisc.edu">Contact Instructor/TA</a></span>
-	</td>
-	<td>
-		<span class="fs-3"><a class="btn btn-blue" href="https://wisconsin-madison.alma.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=14650690810002122&institutionId=2122&customerId=2120">Course Textbook</a></span>
+    <span class="fs-3"><a target="_blank" class="btn btn-green" href="http://go.wisc.edu/n6986j">Live stream</a></span>
 	</td>
 </tr>
 </table>
+### Course Communication
+
+Students can use the following systems to review and submit assignments, ask questions, and communicate with the instructional team.
 
 <table>
 <tr>
 	<td>
-		<a class="label" href="">Course location</a>
+		<span class="fs-3"><a class="btn" href="https://canvas.wisc.edu/courses/219500">Course Canvas</a></span>
 	</td>
 	<td>
-		MW 1:00-2:15 pm, Ed Sciences 228
-	</td>
-</tr>
-<tr>
-	<td>
-		<a class="label" href="">Instructor office hours</a>
+		<span class="fs-3"><a class="btn" href="http://piazza.com/wisc/fall2020/cs639/home">Course Piazza Page</a></span>
 	</td>
 	<td>
-		MW 2:15-2:45 pm, Ed Sciences 228
+		<span class="fs-3"><a class="btn" target="_blank" href="https://teams.microsoft.com/l/team/19%3adc38c8ddd71746598c8ab497a3f2b074%40thread.tacv2/conversations?groupId=b1a4b4a8-b14c-4476-b4ba-10ac2f72f1fe&tenantId=2ca68321-0eda-4908-88b2-424a8cb4b0f9">Course Microsoft Teams</a></span>
 	</td>
-</tr>
-<tr>
-	<td>
-		<a class="label" href="">TA office hours</a>
-	</td>
-	<td>
-		Tue 4:30-5:30 pm, Thu 1:00-2:00 pm, CS 1308 
+  <td>
+		<span class="fs-3"><a class="btn" target="_blank" href="https://classroom.github.com/classrooms/52716783-cs-639-building-user-interfaces-fall-2020">GitHub Classroom</a></span>
 	</td>
 </tr>
 </table>
-
- 
 
