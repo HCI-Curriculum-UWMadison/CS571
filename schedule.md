@@ -11,7 +11,7 @@ To provide students with complete course content, the links below provide course
 
 <a class="label label-blue" >Blue</a> / <a class="label label-purple" >Purple</a> buttons link to **build** / **design** lectures
 
-<a class="label label-yellow">Green</a> / <a class="label label-red" >Red</a> links to *programming* (&alpha;) / *design* (&beta;) assignments
+<a class="label label-yellow">Yellow</a> / <a class="label label-red" >Red</a> links to *programming* (&alpha;) / *design* (&beta;) assignments
 
 <a>**Stream**</a> / <a>**Kaltura**</a> links to lecture stream / recorded lectures (posted by 9 pm on lecture day)
 
@@ -66,7 +66,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Visual-Design.pdf">Visual Design</a></span>
       </td>
       <td>September 17<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">Javascript &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-red" href="">Javascript &alpha;</a></span>
       </td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/04-Build-React-1.pdf">React 1</a></span>
       </td>
       <td>September 22<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">Javascript &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Javascript &beta;</a></span>
       </td>
       <td>September 23<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/04-Build-React-2.pdf">React 2</a></span>
@@ -90,7 +90,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/05-Design-Interaction-Design.pdf">Interaction Design</a></span>
       </td>
       <td>October 1<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">React 1 &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-red" href="">React 1 &alpha;</a></span>
       </td>
     </tr>
     <tr>
@@ -114,7 +114,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/07-Design-Heuristic-Evaluation.pdf">Heuristic Evaluation</a></span>
       </td>
       <td>October 15<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">React 2 &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-red" href="">React 2 &alpha;</a></span>
       </td>
     </tr>
     <tr>
@@ -122,7 +122,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/08-Build-React-Native-1.pdf">React Native 1</a></span>
       </td>
       <td>October 20<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">React 2 &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">React 2 &beta;</a></span>
       </td>
       <td>October 21<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/08-Build-React-Native-2.pdf">React Native 2</a></span>
@@ -138,7 +138,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/09-Design-Prototyping.pdf">Prototyping</a></span>
       </td>
       <td>October 29<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">React Native 1 &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-red" href="">React Native 1 &alpha;</a></span>
       </td>
     </tr>
     <tr>
@@ -146,7 +146,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/10-Build-React-Native-3.pdf">React Native 3</a></span>
       </td>
       <td>November 3<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">React Native 1 &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">React Native 1 &beta;</a></span>
       </td>
       <td>November 4<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/10-Design-Accessible-Design.pdf">Accessible Design</a><br /></span>
@@ -162,7 +162,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/11-Design-Experience-Prototyping.pdf">Experience Prototyping</a></span>
       </td>
       <td>November 12<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">React Native 2 &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-red" href="">React Native 2 &alpha;</a></span>
       </td>
     </tr>
     <tr>
@@ -170,7 +170,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/12-Build-Dialogflow-1.pdf">Dialogflow 1</a></span>
       </td>
       <td>November 17<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">React Native 2 &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">React Native 2 &beta;</a></span>
       </td>
       <td>November 18<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/12-Build-Dialogflow-2.pdf">Dialogflow 2</a></span>
@@ -191,11 +191,11 @@ To provide students with complete course content, the links below provide course
     <tr>
       <td></td>
       <td>December 1<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">Dialogflow &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-red" href="">Dialogflow &alpha;</a></span>
       </td>
       <td></td>
       <td>December 3<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">Dialogflow &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Dialogflow &beta;</a></span>
       </td>
     </tr>
     <tr>
