@@ -5,11 +5,11 @@ nav_order: 1
 # Welcome to CS-639 Building User Interfaces
 
 ## What is this class about?
-This is a relatively new class developed by Professor Mutlu, first offered in Fall 2019 and in Fall 2020 for the second time, to introduce CS undergraduates to the wonderful world of **User Experience (UX) development**.
+This class aims to introduce CS undergraduates to the wonderful world of **User Experience (UX) development**.
 
 <img src="https://www.seeresponse.com/wp-content/uploads/2019/02/ui-ux-design-graphic.jpg" width="450" align="center" />
 
-But what is UX development? Sometimes called front-end development, UX development its between traditional software development and UX design. Let's hear about it from an [actual UX developer]([UX development](https://uxmag.com/articles/hi-im-a-ux-developer-youre-a-what))::
+But what is UX development? Sometimes called front-end development, UX development is between traditional software development and UX design. Let's hear about it from an [actual UX developer]([UX development](https://uxmag.com/articles/hi-im-a-ux-developer-youre-a-what))::
 
 > The realm of the UX developer exists somewhere between that of the traditional developer and the designer. We’re not really designers, yet to be a good UX developer you certainly need to have an eye for design. In the same vein, we’re not traditional developers but we certainly need to have development experience and expertise. Often this experience spans multiple technologies, languages, and platforms.
 
@@ -47,7 +47,7 @@ The course can be taken in three formats: (1) in class, (2) online, synchronousl
 		<a class="label" href="">Course time & location</a>
 	</td>
 	<td>
-		MW 4:00-5:15 pm, Humanities 3650
+		TR 11:00-12:15 pm
 	</td>
 	<td>
     <span class="fs-3"><a target="_blank" class="btn btn-green" href="http://go.wisc.edu/n6986j">Live stream</a></span>
