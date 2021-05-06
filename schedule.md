@@ -46,6 +46,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn" href="lectures/01-Course-Introduction.pdf">Course Introduction</a></span><br />
         <a target="_blank" href=""><strong>Stream</strong></a> <a target="_blank" href="h"><strong>Kaltura</strong></a> <em>No Notes</em>
       </td>
+      <td></td>
     </tr>
     <tr>
       <td>September 9<br />
@@ -92,7 +93,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/05-Design-Interaction-Design.pdf">Interaction Design</a></span>
       </td>
       <td>October 1<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-red" href="">React 1 &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-danger" href="">React 1 &alpha;</a></span>
       </td>
     </tr>
     <tr>
