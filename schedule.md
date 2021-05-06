@@ -47,7 +47,7 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>September 14<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/02-Build-Javascript-1.pdf">Javascript 1</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Javascript 1</a></span><br />
         <a target="_blank" href=""><strong>Kaltura</strong></a> <a target="_blank" href=""><strong>Notes</strong></a>
       </td>
       <td></td>
