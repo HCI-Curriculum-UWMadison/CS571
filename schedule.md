@@ -36,17 +36,17 @@ To provide students with complete course content, the links below provide course
       <td><em>Thursdays</em></td>
     </tr>
     <tr>
-      <td>August 31<br />
+      <td></td>
+      <td>September 7<br />
         <em>No class</em></td>
       <td></td>
-      <td>September 2<br />
+      <td>September 9<br />
         <span class="fs-3"><a target="_blank" class="btn" href="lectures/01-Course-Introduction.pdf">Course Introduction</a></span><br />
-        <a target="_blank" href="http://go.wisc.edu/n6986j"><strong>Stream</strong></a> <a target="_blank" href="https://mediaspace.wisc.edu/media/Course+Introduction/0_tz2m9103"><strong>Kaltura</strong></a> <em>No Notes</em>
+        <a target="_blank" href=""><strong>Stream</strong></a> <a target="_blank" href="h"><strong>Kaltura</strong></a> <em>No Notes</em>
       </td>
-      <td></td>
     </tr>
     <tr>
-      <td>September 7<br />
+      <td>September 9<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/02-Build-Javascript-1.pdf">Javascript 1</a></span><br />
         <a target="_blank" href="https://mediaspace.wisc.edu/media/Javascript+1A+An+Introduction/1_ywo6um9w?ed=4076"><strong>Kaltura</strong></a> <a target="_blank" href="lectures/02-Build-Javascript-1-annotated.pdf"><strong>Notes</strong></a>
       </td>
