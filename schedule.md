@@ -40,7 +40,7 @@ To provide students with complete course content, the links below provide course
         <em>No class</em></td>
       <td></td>
       <td>September 9<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="lectures/01-Course-Introduction.pdf">Course Introduction</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn" href="">Course Introduction</a></span><br />
         <a target="_blank" href=""><strong>Stream</strong></a> <a target="_blank" href="h"><strong>Kaltura</strong></a> <em>No Notes</em>
       </td>
       <td></td>
@@ -48,22 +48,22 @@ To provide students with complete course content, the links below provide course
     <tr>
       <td>September 14<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/02-Build-Javascript-1.pdf">Javascript 1</a></span><br />
-        <a target="_blank" href="https://mediaspace.wisc.edu/media/Javascript+1A+An+Introduction/1_ywo6um9w?ed=4076"><strong>Kaltura</strong></a> <a target="_blank" href="lectures/02-Build-Javascript-1-annotated.pdf"><strong>Notes</strong></a>
+        <a target="_blank" href=""><strong>Kaltura</strong></a> <a target="_blank" href=""><strong>Notes</strong></a>
       </td>
       <td></td>
       <td>September 16<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/02-Build-Javascript-2.pdf">Javascript 2</a></span><br />
-        <a target="_blank" href="http://go.wisc.edu/n6986j"><strong>Stream</strong></a> <a target="_blank" href="https://mediaspace.wisc.edu/media/Javascript+2A+Intermediate+Concepts/1_rzqy9iyb"><strong>Kaltura</strong></a> <a target="_blank" >Notes</a>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Javascript 2</a></span><br />
+        <a target="_blank" href=""><strong>Stream</strong></a> <a target="_blank" href=""><strong>Kaltura</strong></a> <a target="_blank" >Notes</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>September 21<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Design-Thinking.pdf">Design Thinking</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Design Thinking</a></span>
       </td>
       <td></td>
       <td>September 23<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Visual-Design.pdf">Visual Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Visual Design</a></span>
       </td>
       <td>September 24<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">Javascript &alpha;</a></span>
@@ -71,11 +71,11 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>September 28<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/04-Build-React-1.pdf">React 1</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React 1</a></span>
       </td>
       <td></td>
       <td>September 30<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/04-Build-React-2.pdf">React 2</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React 2</a></span>
       </td>
       <td>October 1<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">Javascript &beta;</a></span>
@@ -83,11 +83,11 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>October 5<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/05-Design-Web-Design.pdf">Web Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Web Design</a></span>
       </td>
       <td></td>
       <td>October 7<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/05-Design-Interaction-Design.pdf">Interaction Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Interaction Design</a></span>
       </td>
       <td>October 8<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">React 1 &alpha;</a></span>
@@ -95,11 +95,11 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>October 12<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/06-Build-React-3.pdf">React 3</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React 3</a></span>
       </td>
       <td></td>
       <td>October 14<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/06-Build-React-4.pdf">React 4</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React 4</a></span>
       </td>
       <td>October 15<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React 1 &beta;</a></span>
@@ -107,11 +107,11 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>October 19<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/07-Design-Patterns.pdf">Design Patterns</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Design Patterns</a></span>
       </td>
       <td></td>
       <td>October 21<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/07-Design-Heuristic-Evaluation.pdf">Heuristic Evaluation</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Heuristic Evaluation</a></span>
       </td>
       <td>October 22<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">React 2 &alpha;</a></span>
@@ -119,23 +119,25 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>October 26<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/08-Build-React-Native-1.pdf">React Native 1</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 1</a></span>
       </td>
       <td>October 27<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React 2 &beta;</a></span>
       </td>
       <td>October 28<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/08-Build-React-Native-2.pdf">React Native 2</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span>
       </td>
-      <td>Midterm</td>
+      <td>
+        <strong>Midterm</strong>
+      </td>
     </tr>
     <tr>
       <td>November 2<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/09-Platform-Mobile-Design.pdf">Mobile Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Mobile Design</a></span>
       </td>
       <td></td>
       <td>November 4<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/09-Design-Prototyping.pdf">Prototyping</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Prototyping</a></span>
       </td>
       <td>November 5<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">React Native 1 &alpha;</a></span>
@@ -143,11 +145,11 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>November 9<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/10-Build-React-Native-3.pdf">React Native 3</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 3</a></span>
       </td>
       <td></td>
       <td>November 11<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/10-Design-Accessible-Design.pdf">Accessible Design</a><br /></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Accessible Design</a><br /></span>
       </td>
       <td>November 10<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React Native 1 &beta;</a></span>
@@ -155,11 +157,11 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>November 16<br />
-      <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/11-Design-VUI-Design.pdf">VUI Design</a></span>
+      <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">VUI Design</a></span>
       </td>
       <td></td>
       <td>November 18<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/11-Design-Experience-Prototyping.pdf">Experience Prototyping</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experience Prototyping</a></span>
       </td>
       <td>November 19<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">React Native 2 &alpha;</a></span>
@@ -167,24 +169,26 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>November 23<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/12-Build-Dialogflow-1.pdf">Dialogflow 1</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 1</a></span>
       </td>
       <td>November 24<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React Native 2 &beta;</a></span>
       </td>
       <td>November 25<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/13-Design-Designing-Agents.pdf">Designing Agents</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Designing Agents</a></span><br />
         Thanksgiving, no class, bonus lecture
       </td>
       <td></td>
     </tr>
     <tr>
       <td>November 30<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/12-Build-Dialogflow-2.pdf">Dialogflow 2</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span>
       </td>
-      <td>Midterm 2</td>
+      <td>
+        <strong>Midterm 2 </strong>
+      </td>
       <td>December 2<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/13-Design-Usability-Evaluation.pdf">Usability Evaluation</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Usability Evaluation</a></span>
       </td>
       <td></td>
     </tr>
