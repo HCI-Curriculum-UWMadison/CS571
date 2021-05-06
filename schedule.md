@@ -26,7 +26,7 @@ To provide students with complete course content, the links below provide course
       <th><strong>Design</strong></th>
       <th><strong>Lecture</strong></th>
       <th><strong>Programming</strong></th>
-      <th><strong>xx</strong></th>
+      <th><strong>Assignment</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -123,7 +123,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/07-Design-Heuristic-Evaluation.pdf">Heuristic Evaluation</a></span>
       </td>
       <td>October 15<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-red" href="">React 2 &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">React 2 &alpha;</a></span>
       </td>
     </tr>
     <tr>
@@ -132,7 +132,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/08-Build-React-Native-1.pdf">React Native 1</a></span>
       </td>
       <td>October 20<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">React 2 &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React 2 &beta;</a></span>
       </td>
       <td>October 21<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/08-Build-React-Native-2.pdf">React Native 2</a></span>
@@ -217,7 +217,7 @@ To provide students with complete course content, the links below provide course
     <tr>
       <td></td>
       <td>December 8<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">Dialogflow &gamma;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-green-200 text-grey-lt-000" href="">Dialogflow &gamma;</a></span>
       </td>
       <td></td>
       <td></td>
