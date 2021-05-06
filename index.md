@@ -2,7 +2,7 @@
 title: Home
 nav_order: 1
 ---
-# Welcome to CS-639 Building User Interfaces
+# Welcome to CS-571 Building User Interfaces
 
 ## What is this class about?
 This class aims to introduce CS undergraduates to the wonderful world of **User Experience (UX) development**.
