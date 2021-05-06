@@ -66,7 +66,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Visual-Design.pdf">Visual Design</a></span>
       </td>
       <td>September 17<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-red" href="">Javascript &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Javascript &alpha;</a></span>
       </td>
     </tr>
     <tr>
@@ -98,7 +98,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/06-Build-React-3.pdf">React 3</a></span>
       </td>
       <td>October 6<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">React 1 &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">React 1 &beta;</a></span>
       </td>
       <td>October 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/06-Build-React-4.pdf">React 4</a></span>
