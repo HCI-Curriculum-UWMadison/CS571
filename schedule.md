@@ -11,7 +11,7 @@ To provide students with complete course content, the links below provide course
 
 <a class="label label-blue" >Blue</a> / <a class="label label-purple" >Purple</a> buttons link to **build** / **design** lectures
 
-<a class="label label-yellow">Yellow</a> / <a class="label label-red" >Red</a> links to *programming* (&alpha;) / *design* (&beta;) assignments
+<a class="label label-red" >Red</a> / <a class="label label-yellow">Yellow</a> links to *programming* (&alpha;) / *design* (&beta;) assignments
 
 <a>**Stream**</a> / <a>**Kaltura**</a> links to lecture stream / recorded lectures (posted by 9 pm on lecture day)
 
