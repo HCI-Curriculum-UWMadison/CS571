@@ -49,6 +49,7 @@ To provide students with complete course content, the links below provide course
       <td></td>
     </tr>
     <tr>
+      <td></td>
       <td>September 9<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/02-Build-Javascript-1.pdf">Javascript 1</a></span><br />
         <a target="_blank" href="https://mediaspace.wisc.edu/media/Javascript+1A+An+Introduction/1_ywo6um9w?ed=4076"><strong>Kaltura</strong></a> <a target="_blank" href="lectures/02-Build-Javascript-1-annotated.pdf"><strong>Notes</strong></a>
@@ -61,6 +62,7 @@ To provide students with complete course content, the links below provide course
       <td></td>
     </tr>
     <tr>
+      <td></td>
       <td>September 14<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Design-Thinking.pdf">Design Thinking</a></span>
       </td>
@@ -73,6 +75,7 @@ To provide students with complete course content, the links below provide course
       </td>
     </tr>
     <tr>
+      <td></td>
       <td>September 21<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/04-Build-React-1.pdf">React 1</a></span>
       </td>
@@ -85,6 +88,7 @@ To provide students with complete course content, the links below provide course
       <td></td>
     </tr>
     <tr>
+      <td></td>
       <td>September 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/05-Design-Web-Design.pdf">Web Design</a></span>
       </td>
@@ -97,6 +101,7 @@ To provide students with complete course content, the links below provide course
       </td>
     </tr>
     <tr>
+      <td></td>
       <td>October 5<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/06-Build-React-3.pdf">React 3</a></span>
       </td>
@@ -109,6 +114,7 @@ To provide students with complete course content, the links below provide course
       <td></td>
     </tr>
     <tr>
+      <td></td>
       <td>October 12<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/07-Design-Patterns.pdf">Design Patterns</a></span>
       </td>
@@ -121,6 +127,7 @@ To provide students with complete course content, the links below provide course
       </td>
     </tr>
     <tr>
+      <td></td>
       <td>October 19<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/08-Build-React-Native-1.pdf">React Native 1</a></span>
       </td>
@@ -133,6 +140,7 @@ To provide students with complete course content, the links below provide course
       <td></td>
     </tr>
     <tr>
+      <td></td>
       <td>October 26<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/09-Platform-Mobile-Design.pdf">Mobile Design</a></span>
       </td>
@@ -145,6 +153,7 @@ To provide students with complete course content, the links below provide course
       </td>
     </tr>
     <tr>
+      <td></td>
       <td>November 2<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/10-Build-React-Native-3.pdf">React Native 3</a></span>
       </td>
@@ -157,6 +166,7 @@ To provide students with complete course content, the links below provide course
       <td></td>
     </tr>
     <tr>
+      <td></td>
       <td>November 9<br />
       <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/11-Design-VUI-Design.pdf">VUI Design</a></span>
       </td>
@@ -169,6 +179,7 @@ To provide students with complete course content, the links below provide course
       </td>
     </tr>
     <tr>
+      <td></td>
       <td>November 16<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/12-Build-Dialogflow-1.pdf">Dialogflow 1</a></span>
       </td>
@@ -181,6 +192,7 @@ To provide students with complete course content, the links below provide course
       <td></td>
     </tr>
     <tr>
+      <td></td>
       <td>November 23<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/13-Design-Usability-Evaluation.pdf">Usability Evaluation</a></span>
       </td>
@@ -200,12 +212,14 @@ To provide students with complete course content, the links below provide course
       <td>December 3<br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Dialogflow &beta;</a></span>
       </td>
+      <td></td>
     </tr>
     <tr>
       <td></td>
       <td>December 8<br />
         <span class="fs-3"><a target="_blank" class="btn btn-outline" href="">Dialogflow &gamma;</a></span>
       </td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
