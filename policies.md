@@ -33,7 +33,7 @@ nav_order: 6
 
 **Late Policy:** Assignments submitted by 11:59 pm on the date of the deadline will receive full marks. For each assignment, 20% of the total grade for that assignment will be removed for each day that the assignment is late. Submissions that are 5+ days late will receive no marks. For each assignment, the submissions made to the GitHub Classroom repository will be pulled at 11:59 pm daily and used for grading. If a submission was made by the deadline, it cannot be updated unless attenuating circumstances. 
 
-**Emergencies and Exceptions:** Inform the instructor immediately on Microsoft Teams of any crisis that preclude you from attending a class or an exam.
+**Emergencies and Exceptions:** Inform the instructor immediately of any crisis that preclude you from attending a class or an exam.
 
 **Special Needs:** Students with special needs should inform the instructor immediately via email so that accommodations can be made.
 
@@ -51,4 +51,4 @@ All student work submitted for exams, quizzes, and assignments will be reviewed 
 
 ### INSTITUTIONAL POLICIES
 
-Students should review the [course syllabus](https://drive.google.com/file/d/1jlLVaEe5LV-3Ohn_RT5Ux_3ej4U6lx_q/view?usp=sharing) for institutional policies.
+Students should review the [course syllabus](https://drive.google.com/file/d/1t5o6ux8NHxjBL9q_h1fANeJIbVA59AD-/view?usp=sharing) for institutional policies.
