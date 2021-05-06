@@ -26,6 +26,7 @@ To provide students with complete course content, the links below provide course
       <th><strong>Design</strong></th>
       <th><strong>Lecture</strong></th>
       <th><strong>Programming</strong></th>
+      <th><strong>xx</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -34,6 +35,7 @@ To provide students with complete course content, the links below provide course
       <td><em>Tuesdays</em></td>
       <td><em>Wednesdays</em></td>
       <td><em>Thursdays</em></td>
+      <td><em>Friday</em></td>
     </tr>
     <tr>
       <td></td>
@@ -74,7 +76,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/04-Build-React-1.pdf">React 1</a></span>
       </td>
       <td>September 22<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Javascript &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-green" href="">Javascript &beta;</a></span>
       </td>
       <td>September 23<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/04-Build-React-2.pdf">React 2</a></span>
