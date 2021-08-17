@@ -185,7 +185,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span>
       </td>
       <td>
-        <strong>Midterm 2 </strong>
+        
       </td>
       <td>December 2<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Usability Evaluation</a></span>
