@@ -127,7 +127,7 @@ To provide students with complete course content, the links below provide course
       <td>October 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span>
       </td>
-      <td>October 29><br />
+      <td>October 29<br />
         <strong>Midterm</strong>
       </td>
     </tr>
