@@ -10,7 +10,7 @@ nav_order: 3
 |--------------------------------------|:------:|
 | Weekly assignments                    | 50     |
 | Midterm 1                            | 20   |
-| Midterm 2                       | 20    |
+| Final                       | 20    |
 | Quizzes | 10      |
 | Total                                | 100    |
 

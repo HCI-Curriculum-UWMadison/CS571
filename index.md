@@ -38,10 +38,10 @@ The majority of the course content can be found on this website, and links below
 
 ### Course Access
 
-The course can be taken in three formats: (1) in class, (2) online, synchronously (through streamed lectures and live Q&A), and (3) online, asynchronously (through recorded lectures). 
+The course can be taken in two formats: (1) in class; and (2) online, asynchronously (through recorded lectures). 
 
 
-<table>
+<!-- <table>
 <tr>
 	<td>
 		<a class="label" href="">Course time & location</a>
@@ -53,12 +53,12 @@ The course can be taken in three formats: (1) in class, (2) online, synchronousl
     <span class="fs-3"><a target="_blank" class="btn btn-green" href="http://go.wisc.edu/n6986j">Live stream</a></span>
 	</td>
 </tr>
-</table>
+</table> -->
 ### Course Communication
 
 Students can use the following systems to review and submit assignments, ask questions, and communicate with the instructional team.
 
-<table>
+ <table>
 <tr>
 	<td>
 		<span class="fs-3"><a class="btn" href="https://canvas.wisc.edu/courses/219500">Course Canvas</a></span>
@@ -73,5 +73,5 @@ Students can use the following systems to review and submit assignments, ask que
 		<span class="fs-3"><a class="btn" target="_blank" href="https://classroom.github.com/classrooms/52716783-cs-639-building-user-interfaces-fall-2020">GitHub Classroom</a></span>
 	</td>
 </tr>
-</table>
+</table> 
 
