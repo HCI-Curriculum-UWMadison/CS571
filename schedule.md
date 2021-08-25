@@ -125,7 +125,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React 2 &beta;</a></span>
       </td>
       <td>October 28<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span> </br>
         <strong>Midterm (7:15-9:15pm)</strong>
       </td>
       <td>October 29<br />
@@ -176,8 +176,8 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React Native 2 &beta;</a></span>
       </td>
       <td>November 25<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Designing Agents</a></span><br />
-        Thanksgiving, no class, bonus lecture
+        <!--<span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span><br /> -->
+        Thanksgiving, no class
       </td>
       <td></td>
     </tr>
@@ -193,7 +193,9 @@ To provide students with complete course content, the links below provide course
       <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td>December 7<br />
+        <span class="fs-3"><a target="_blank" class="btn bg-purple" href="">Designing Agents</a></span>
+      </td>
       <td>December 8<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">Dialogflow &alpha;</a></span>
       </td>
@@ -213,10 +215,10 @@ To provide students with complete course content, the links below provide course
     <tr>
       <td></td>
       <td></td>
-      <td></td>
       <td> December 23 <br />
         <Strong>Final (12:25-2:25 pm)</Strong>
       </td>
+       <td></td>
     </tr>
   </tbody>
 </table>
