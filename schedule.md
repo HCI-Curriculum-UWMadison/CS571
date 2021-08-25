@@ -126,9 +126,10 @@ To provide students with complete course content, the links below provide course
       </td>
       <td>October 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span>
+        <strong>Midterm (7:15-9:15pm)</strong>
       </td>
       <td>October 29<br />
-        <strong>Midterm</strong>
+        <strong>Midterm alternative (7:15-9:15pm)</strong>
       </td>
     </tr>
     <tr>
@@ -185,7 +186,6 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span>
       </td>
       <td>
-        
       </td>
       <td>December 2<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Usability Evaluation</a></span>
@@ -209,6 +209,14 @@ To provide students with complete course content, the links below provide course
       </td>
       <td></td>
       <td></td>  
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td> December 23 <br />
+        <Strong>Final (12:25-2:25 pm)</Strong>
+      </td>
     </tr>
   </tbody>
 </table>
