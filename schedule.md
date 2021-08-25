@@ -194,7 +194,7 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>December 7<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-purple" href="">Designing Agents</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Designing Agents</a></span>
       </td>
       <td>December 8<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">Dialogflow &alpha;</a></span>
