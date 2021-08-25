@@ -196,21 +196,20 @@ To provide students with complete course content, the links below provide course
       <td>December 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Designing Agents</a></span>
       </td>
-      <td>December 8<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">Dialogflow &alpha;</a></span>
-      </td>
+      <td> </td>
       <td></td>
       <td>December 10<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">Dialogflow &beta;</a></span>
-      </td>
+        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">Dialogflow &alpha;</a></span>
+      </td>    
     </tr>
     <tr>
       <td></td>
       <td>December 15<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-green-200 text-grey-lt-000" href="">Dialogflow &gamma;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">Dialogflow &beta;</a></span>
       </td>
-      <td></td>
-      <td></td>  
+      <td>December 17<br />
+        <span class="fs-3"><a target="_blank" class="btn bg-green-200 text-grey-lt-000" href="">Dialogflow &gamma;</a></span>
+      </td> 
     </tr>
     <tr>
       <td></td>
