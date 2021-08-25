@@ -125,7 +125,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React 2 &beta;</a></span>
       </td>
       <td>October 28<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span> </br>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span> <br />
         <strong>Midterm (7:15-9:15pm)</strong>
       </td>
       <td>October 29<br />
