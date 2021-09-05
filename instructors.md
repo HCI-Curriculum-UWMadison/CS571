@@ -12,29 +12,33 @@ Department of Computer Sciences, University of Wisconsin–Madison
 <img src="figures/Yuhang_Zhao.jpg" width="200" />
 
 #### INSTRUCTOR AVAILABILITY  
-During scheduled office hours (Tuesdays 12:30-1:30 pm) or by appointment.
+During scheduled office hours (Thursday 4:30-5:30 pm) or by appointment.
 
 #### INSTRUCTOR EMAIL/PREFERRED CONTACT  
 Preferred instructor contact is via email. 
 
 ### TEACHING ASSISTANTS  
-TBD
+Brandon Cegelski <br />
+Salman Munaf <br />
+Sujitha Perumal <br />
 
-<img src="figures/.jpg" width="200" /><img src="figures/.png" width="200" /><img src="figures/.jpg" width="200" />
+<img src="figures/brandon.jpg" height="200" /><img src="figures/salman.png" height="200" /><img src="figures/sujitha.jpg" height="200" />
 
 #### TA OFFICE HOURS  
-See the table for instructional team office hours. All office hours will be held in person or via Zoom.
+See the table for instructional team office hours. All office hours will be held via Microsoft Teams.
 
 #### TA EMAIL/PREFERRED CONTACT  
-TBD
+Please either mention or start a new chat with the peer mentors in Microsoft Teams.
 
 ### PEER MENTORS  
-TBD
+Ilkyu Ju <br />
+Yuren Sun <br />
 
-<img src="figures/.jpg" width="200" /><img src="figures/.jpg" width="200" />
+<img src="figures/Ilkyu.jpg" height="200" /><img src="figures/yuren.jpg" height="200" />
 
 #### PEER MENTOR OFFICE HOURS  
-TBD
+See the table for instructional team office hours. All office hours will be held via Microsoft Teams.
+
 
 #### PEER MENTOR EMAIL/PREFERRED CONTACT  
-TBD
+Please either mention or start a new chat with the peer mentors in Microsoft Teams.

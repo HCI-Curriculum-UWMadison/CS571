@@ -41,7 +41,7 @@ To provide students with complete course content, the links below provide course
       <td></td>
       <td>September 9<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Course Introduction</a></span><br />
-        <a target="_blank" href=""><strong>Stream</strong></a> <a target="_blank" href="h"><strong>Kaltura</strong></a> <em>No Notes</em>
+        <a target="_blank" href="https://uwmadison.zoom.us/j/91256253366?pwd=enRKSW1yL2JVMnJQZkU5clhVWlAyUT09"><strong>Stream</strong></a> <a target="_blank" href="h"><strong>Kaltura</strong></a> <em>No Notes</em>
       </td>
       <td></td>
     </tr>
