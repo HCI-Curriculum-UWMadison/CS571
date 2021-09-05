@@ -9,7 +9,7 @@ This class aims to introduce CS undergraduates to the wonderful world of **User 
 
 <img src="https://www.seeresponse.com/wp-content/uploads/2019/02/ui-ux-design-graphic.jpg" width="450" align="center" />
 
-But what is UX development? Sometimes called front-end development, UX development is between traditional software development and UX design. Let's hear about it from an [actual UX developer]([UX development](https://uxmag.com/articles/hi-im-a-ux-developer-youre-a-what))::
+But what is UX development? Sometimes called front-end development, UX development is between traditional software development and UX design. Let's hear about it from an  <a target="_blank" href="https://uxmag.com/articles/hi-im-a-ux-developer-youre-a-what"><strong>actual UX developer</strong></a>:
 
 > The realm of the UX developer exists somewhere between that of the traditional developer and the designer. We’re not really designers, yet to be a good UX developer you certainly need to have an eye for design. In the same vein, we’re not traditional developers but we certainly need to have development experience and expertise. Often this experience spans multiple technologies, languages, and platforms.
 
