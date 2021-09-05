@@ -22,7 +22,7 @@ Brandon Cegelski <br />
 Salman Munaf <br />
 Sujitha Perumal <br />
 
-<img src="figures/brandon.jpg" width="200" /><img src="figures/salman.png" width="200" height="200" /><img src="figures/sujitha.jpg" width="160" height="200" />
+<img src="figures/brandon.jpg" width="200" /><img src="figures/salman.png" width="200" height="200" /><img src="figures/sujitha.jpg" width="140" height="200" />
 
 #### TA OFFICE HOURS  
 See the table for instructional team office hours. All office hours will be held via Microsoft Teams.
@@ -34,7 +34,7 @@ Please either mention or start a new chat with the peer mentors in Microsoft Tea
 Ilkyu Ju <br />
 Yuren Sun <br />
 
-<img src="figures/Ilkyu.jpg" width="200" height="200" /><img src="figures/yuren.jpg" width="150" height="200" />
+<img src="figures/Ilkyu.jpg" width="200" height="200" /><img src="figures/yuren.jpg" width="140" height="200" />
 
 #### PEER MENTOR OFFICE HOURS  
 See the table for instructional team office hours. All office hours will be held via Microsoft Teams.
