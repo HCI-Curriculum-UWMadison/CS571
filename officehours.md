@@ -11,12 +11,12 @@ Assistant Professor Yuhang Zhao
 ### TEACHING ASSISTANTS  
 Brandon Cegelski, Salman Munaf, Sujitha Perumal 
 
-<img src="figures/brandon.jpg" height="120" /><img src="figures/salman.png" height="120" /><img src="figures/sujitha.jpg" height="120" />
+<img src="figures/brandon.jpg" width="120" height="120" /><img src="figures/salman.png" width="120" height="120" /><img src="figures/sujitha.jpg" width="90" height="120" />
 
 ### PEER MENTORS  
 Ilkyu Ju, Yuren Sun
 
-<img src="figures/Ilkyu.jpg" height="120" /><img src="figures/yuren.jpg" height="120" />
+<img src="figures/Ilkyu.jpg" width="120" height="120" /><img src="figures/yuren.jpg" width="90" height="120" />
 
 ---
 
