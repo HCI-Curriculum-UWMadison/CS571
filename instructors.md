@@ -22,7 +22,7 @@ Brandon Cegelski <br />
 Salman Munaf <br />
 Sujitha Perumal <br />
 
-<img src="figures/brandon.jpg" height="200" /><img src="figures/salman.png" height="200" /><img src="figures/sujitha.jpg" height="200" />
+<img src="figures/brandon.jpg" width="200" /><img src="figures/salman.png" height="200" /><img src="figures/sujitha.jpg" height="200" />
 
 #### TA OFFICE HOURS  
 See the table for instructional team office hours. All office hours will be held via Microsoft Teams.
