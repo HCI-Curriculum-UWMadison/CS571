@@ -16,7 +16,7 @@ Brandon Cegelski, Salman Munaf, Sujitha Perumal
 ### PEER MENTORS  
 Ilkyu Ju, Yuren Sun
 
-<img src="figures/Ilkyu.jpg" width="120" height="120" /><img src="figures/yuren.jpg" width="85" height="120" />
+<img src="figures/Ilkyu.jpg" width="120" height="120" /><img src="figures/yuren.jpg" width="89" height="120" />
 
 ---
 
