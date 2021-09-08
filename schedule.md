@@ -152,7 +152,7 @@ To provide students with complete course content, the links below provide course
       <td>November 11<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Accessible Design</a><br /></span>
       </td>
-      <td>November 10<br />
+      <td>November 12<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React Native 1 &beta;</a></span>
       </td>
     </tr>
