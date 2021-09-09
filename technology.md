@@ -19,7 +19,7 @@ This class has two threads: **design** and **build**. In "design," you will lear
 <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/details/Prototype_WirePrototypeFlows%402x.jpg.img.jpg" width="240" /> 
 <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/details/Prototype_VoicePrototyping.jpg.img.jpg" width="240" />
 
-[Adobe XD](https://www.adobe.com/products/xd.html) — Adobe's Experience Design (XD) software is industry standard for rapid-prototyping designs for web and mobile environments. It has recently been made free to use with limited sharing and cloud storage.
+[Adobe XD](https://www.adobe.com/products/xd/pricing/starter-plan.html) — Adobe's Experience Design (XD) software is industry standard for rapid-prototyping designs for web and mobile environments. It has recently been made free to use with limited sharing and cloud storage.
 
 [SmartDraw](https://www.smartdraw.com) — Designers think about systems and how different components work together, and interaction designers think about system behavior. To sketch and prototype system behavior, e.g., an interaction flow, you will need a mind-mapping/flowcharting tool. The University provides free access to SmartDraw, and its [online version](https://cloud.smartdraw.com/) works on all platforms. To use, follow the instructions in the SmartDraw page on the [Campus Software Library](http://software.wisc.edu/).
 
