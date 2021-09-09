@@ -9,10 +9,7 @@ This class has two threads: **design** and **build**. In "design," you will lear
 ## Course Participation
 <img src="https://mspoweruser.com/wp-content/uploads/2018/08/Microsoft-Teams.jpg" width="450" />
 
-[Microsoft Teams](https://kb.wisc.edu/office365/page.php?id=73588) — We will use Microsoft Teams for class communication, announcements, and so on. Why? The software development industry heavily relies on team communication tools, such as Slack, GroupMe, Microsoft Teams, and so on. Getting experience and comfortable with these tools is an ulterior learning goal of this class. All of these tools have pros and cons, but only Microsoft Teams is FERPA compliant and appropriate for use in a classroom context in higher education. Furthermore, the University recommends it. Below are the recommended use cases:
-
-1. *Asking anonymous questions:* In the General channel, students can ask questions anonymously in the Piazza tab or directly through the course Piazza.
-2. *Asking personal questions:* Students can start a message, adding relevant members of the instructional teams in the chat.
+[Microsoft Teams](https://kb.wisc.edu/office365/page.php?id=73588) — We will use Microsoft Teams for class communication, announcements, and so on. Why? The software development industry heavily relies on team communication tools, such as Slack, GroupMe, Microsoft Teams, and so on. Getting experience and comfortable with these tools is an ulterior learning goal of this class. All of these tools have pros and cons, but only Microsoft Teams is FERPA compliant and appropriate for use in a classroom context in higher education. Furthermore, the University recommends it. For example, students can start a message, adding relevant members of the instructional teams in the chat.
 
 [Piazza](https://it.wisc.edu/services/piazza/) — We will use Piazza for Q&A, primarily for assignments. Piazza allows students to ask questions anonymously, respond to other students' questions, and add follow-up questions or comments to existing threads. Piazza can be accessed through the Canvas Piazza tab or through the Piazza tab within the General channel in Microsoft Teams.
 
