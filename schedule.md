@@ -11,9 +11,9 @@ To provide students with complete course content, the links below provide course
 
 <a class="label label-blue" >Blue</a> / <a class="label label-purple" >Purple</a> buttons link to **build** / **design** lectures
 
-<a class="label label-red" >Red</a> / <a class="label label-yellow">Yellow</a> links to *programming* (&alpha;) / *design* (&beta;) assignments
+<a class="label label-red" >Red</a> / <a class="label label-yellow">Yellow</a> links to _programming_ (&alpha;) / _design_ (&beta;) assignments
 
-<a>**Stream**</a> / <a>**Kaltura**</a> links to lecture stream / recorded lectures (posted by 9 pm on lecture day)
+<a>**Stream**</a> / <a>**Zoom**</a> links to lecture stream / recorded lectures (posted by 9 pm on lecture day)
 
 <a>**Notes**</a> links to slides that are annotated during lecture
 
@@ -40,20 +40,20 @@ To provide students with complete course content, the links below provide course
         <em>No class</em></td>
       <td></td>
       <td>September 9<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Course Introduction</a></span><br />
-        <a target="_blank" href="https://uwmadison.zoom.us/j/91256253366?pwd=enRKSW1yL2JVMnJQZkU5clhVWlAyUT09"><strong>Stream</strong></a> <a target="_blank" href="h"><strong>Kaltura</strong></a> <em>No Notes</em>
+        <span class="fs-3"><a target="_blank" class="btn" href="lectures/01-Course-Introduction.pdf">Course Introduction</a></span><br />
+        <a target="_blank" href="https://uwmadison.zoom.us/j/91256253366?pwd=enRKSW1yL2JVMnJQZkU5clhVWlAyUT09"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/K90WV_NmGfNIwc9H6GO9YNePXIs8Iw_IEaY_BJXLI5F_OPO_HA8MSQgMoeu-aDZX5Pu18ETQRrCx4vt6.Vv0ERZTadvdeQSao"><strong>Zoom</strong></a> <em>No Notes</em>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>September 14<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Javascript 1</a></span><br />
-        <a target="_blank" href=""><strong>Kaltura</strong></a> <a target="_blank" href=""><strong>Notes</strong></a>
+        <a target="_blank" href=""><strong>Zoom</strong></a> <a target="_blank" href=""><strong>Notes</strong></a>
       </td>
       <td></td>
       <td>September 16<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Javascript 2</a></span><br />
-        <a target="_blank" href=""><strong>Stream</strong></a> <a target="_blank" href=""><strong>Kaltura</strong></a> <a target="_blank" >Notes</a>
+        <a target="_blank" href=""><strong>Stream</strong></a> <a target="_blank" href=""><strong>Zoom</strong></a> <a target="_blank" >Notes</a>
       </td>
       <td></td>
     </tr>
@@ -222,7 +222,6 @@ To provide students with complete course content, the links below provide course
     </tr>
   </tbody>
 </table>
-
 
 ---
 
