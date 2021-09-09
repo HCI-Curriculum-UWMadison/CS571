@@ -48,6 +48,7 @@ To provide students with complete course content, the links below provide course
     <tr>
       <td>September 14<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Javascript 1</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
         <a target="_blank" href=""><strong>Zoom</strong></a> <a target="_blank" href=""><strong>Notes</strong></a>
       </td>
       <td></td>
