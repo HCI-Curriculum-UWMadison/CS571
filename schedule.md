@@ -67,7 +67,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Visual Design</a></span>
       </td>
       <td>September 24<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">Javascript &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/273395/assignments/1353279">Javascript &alpha;</a></span>
       </td>
     </tr>
     <tr>
