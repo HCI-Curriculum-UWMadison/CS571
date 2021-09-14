@@ -49,12 +49,12 @@ To provide students with complete course content, the links below provide course
       <td>September 14<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/02-Build-Javascript-1.pdf">Javascript 1</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
-        <a target="_blank" href=""><strong>Zoom</strong></a> <a target="_blank" href=""><strong>Notes</strong></a>
+        <a target="_blank" href="">Zoom</a> <a target="_blank" href="">Notes</a>
       </td>
       <td></td>
       <td>September 16<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Javascript 2</a></span><br />
-        <a target="_blank" href=""><strong>Stream</strong></a> <a target="_blank" href=""><strong>Zoom</strong></a> <a target="_blank" >Notes</a>
+        <a target="_blank" href="">Stream</a> <a target="_blank" href="">Zoom</a> <a target="_blank" >Notes</a>
       </td>
       <td></td>
     </tr>
