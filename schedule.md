@@ -62,7 +62,7 @@ To provide students with complete course content, the links below provide course
     <tr>
       <td>September 21<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Design-Thinking.pdf">Design Thinking</a></span><br />
-        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/wJIwp77VO8E3r3N3S6Ra3lagu4pz6nxhYkYzQHH4lzgALWP403I9RwFGMKHE97kea4TcFah8gGV9c02i.R-hrHTEB6y8W8iKe">Zoom</a> <em>No Notes</em>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/wJIwp77VO8E3r3N3S6Ra3lagu4pz6nxhYkYzQHH4lzgALWP403I9RwFGMKHE97kea4TcFah8gGV9c02i.R-hrHTEB6y8W8iKe"><strong>Zoom</strong></a> <em>No Notes</em>
       </td>
       <td></td>
       <td>September 23<br />
