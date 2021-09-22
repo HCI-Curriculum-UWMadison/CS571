@@ -66,7 +66,8 @@ To provide students with complete course content, the links below provide course
       </td>
       <td></td>
       <td>September 23<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Visual Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Visual-Design.pdf">Visual Design</a></span>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="">Zoom</a> <a target="_blank" href="">Notes</a>
       </td>
       <td>September 24<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/273395/assignments/1353279">Javascript &alpha;</a></span>
