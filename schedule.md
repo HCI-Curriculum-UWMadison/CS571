@@ -81,7 +81,7 @@ To provide students with complete course content, the links below provide course
       <td></td>
       <td>September 30<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React 2</a></span><br />
-        <a target="_blank" href="">Stream</a> <a target="_blank" href="">Zoom</a> <a>Notes</a>
+        <a target="_blank" href="">Stream</a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/Up3-TqndeKX8zWvyyRQhLwzNfveT2rQnCI0XmRcc0TJve_Oj4pnjxgtZ8fA-fLUeL0cU06IwoEiExVj_.14oliHjFmPWRph27"><strong>Zoom</strong></a> <em>No Notes</em>
       </td>
       <td>October 1<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1361137">Javascript &beta;</a></span>
