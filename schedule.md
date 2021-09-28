@@ -75,7 +75,8 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>September 28<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React 1</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/04-Build-React-1.pdf">React 1</a></span>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="">Zoom</a> <a>Notes</a>
       </td>
       <td></td>
       <td>September 30<br />
