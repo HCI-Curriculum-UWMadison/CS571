@@ -13,7 +13,7 @@ To provide students with complete course content, the links below provide course
 
 <a class="label label-red" >Red</a> / <a class="label label-yellow">Yellow</a> links to _programming_ (&alpha;) / _design_ (&beta;) assignments
 
-<a>**Stream**</a> / <a>**Zoom**</a> links to lecture stream / recorded lectures (posted by 9 pm on lecture day)
+<a>**Stream**</a> / <a>**Recording**</a> links to lecture stream / recorded lectures (posted by 9 pm on lecture day)
 
 <a>**Notes**</a> links to slides that are annotated during lecture
 
@@ -41,7 +41,7 @@ To provide students with complete course content, the links below provide course
       <td></td>
       <td>September 9<br />
         <span class="fs-3"><a target="_blank" class="btn" href="lectures/01-Course-Introduction.pdf">Course Introduction</a></span><br />
-        <a target="_blank" href="https://uwmadison.zoom.us/j/91256253366?pwd=enRKSW1yL2JVMnJQZkU5clhVWlAyUT09"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/K90WV_NmGfNIwc9H6GO9YNePXIs8Iw_IEaY_BJXLI5F_OPO_HA8MSQgMoeu-aDZX5Pu18ETQRrCx4vt6.Vv0ERZTadvdeQSao"><strong>Zoom</strong></a> <em>No Notes</em>
+        <a target="_blank" href="https://uwmadison.zoom.us/j/91256253366?pwd=enRKSW1yL2JVMnJQZkU5clhVWlAyUT09"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/K90WV_NmGfNIwc9H6GO9YNePXIs8Iw_IEaY_BJXLI5F_OPO_HA8MSQgMoeu-aDZX5Pu18ETQRrCx4vt6.Vv0ERZTadvdeQSao"><strong>Recording</strong></a> <em>No Notes</em>
       </td>
       <td></td>
     </tr>
@@ -49,25 +49,25 @@ To provide students with complete course content, the links below provide course
       <td>September 14<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/02-Build-Javascript-1.pdf">Javascript 1</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
-        <strong><a target="_blank" href="https://uwmadison.zoom.us/rec/play/pN-JliqzmYE0OMacVtiJDyEVIPCHc7_ajkwR8Il_O4sUnl962egShsqZgrFipp5_M3JnW6Jz213ocP7T.P1YGrotO-GKFuvY3">Zoom<sup>1 (16:42~)</sup></a> 
-        <a target="_blank" href="https://uwmadison.zoom.us/rec/play/M_df8jbN10QZd0kzA6WPwR0pFYFLX4FoxA7ZeWGXx5hwK7_8dtZBYAl6TqY3dfjRNRh35eiyXKIhgOt4.6fNW456uM7rXi2hl">Zoom<sup>2 (04:47~)</sup></a></strong> <em>No Notes</em>
+        <strong><a target="_blank" href="https://uwmadison.zoom.us/rec/play/pN-JliqzmYE0OMacVtiJDyEVIPCHc7_ajkwR8Il_O4sUnl962egShsqZgrFipp5_M3JnW6Jz213ocP7T.P1YGrotO-GKFuvY3">Recording<sup>1 (16:42~)</sup></a> 
+        <a target="_blank" href="https://uwmadison.zoom.us/rec/play/M_df8jbN10QZd0kzA6WPwR0pFYFLX4FoxA7ZeWGXx5hwK7_8dtZBYAl6TqY3dfjRNRh35eiyXKIhgOt4.6fNW456uM7rXi2hl">Recording<sup>2 (04:47~)</sup></a></strong> <em>No Notes</em>
       </td>
       <td></td>
       <td>September 16<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/02-Build-Javascript-2.pdf">Javascript 2</a></span><br />
-        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/FcXdK6cioQd74JMxsY3_PDpXrEP3JaXxpytueEgeUoylB4DgeK41jubiA0h_WiXe0sVo1TjF-MEHIh3g.YnWNfTWGK4yrbYIh"><strong>Zoom</strong></a> <em>No Notes</em>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/FcXdK6cioQd74JMxsY3_PDpXrEP3JaXxpytueEgeUoylB4DgeK41jubiA0h_WiXe0sVo1TjF-MEHIh3g.YnWNfTWGK4yrbYIh"><strong>Recording</strong></a> <em>No Notes</em>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>September 21<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Design-Thinking.pdf">Design Thinking</a></span><br />
-        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/wJIwp77VO8E3r3N3S6Ra3lagu4pz6nxhYkYzQHH4lzgALWP403I9RwFGMKHE97kea4TcFah8gGV9c02i.R-hrHTEB6y8W8iKe"><strong>Zoom</strong></a> <em>No Notes</em>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/wJIwp77VO8E3r3N3S6Ra3lagu4pz6nxhYkYzQHH4lzgALWP403I9RwFGMKHE97kea4TcFah8gGV9c02i.R-hrHTEB6y8W8iKe"><strong>Recording</strong></a> <em>No Notes</em>
       </td>
       <td></td>
       <td>September 23<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Visual-Design.pdf">Visual Design</a></span><br />
-        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/pJVY73SsekWePvlss7XIYi6WckFjGRLjTMIqI5iktLzE72j0zIcbx-5VQgr96R0KG5tsOuAxIV3SYExe.o_3DCUyObocKXoBf"><strong>Zoom</strong></a> <em>No Notes</em>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/pJVY73SsekWePvlss7XIYi6WckFjGRLjTMIqI5iktLzE72j0zIcbx-5VQgr96R0KG5tsOuAxIV3SYExe.o_3DCUyObocKXoBf"><strong>Recording</strong></a> <em>No Notes</em>
       </td>
       <td>September 24<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/273395/assignments/1353279">Javascript &alpha;</a></span>
@@ -76,12 +76,12 @@ To provide students with complete course content, the links below provide course
     <tr>
       <td>September 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/04-Build-React-1.pdf">React 1</a></span><br />
-        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/Up3-TqndeKX8zWvyyRQhLwzNfveT2rQnCI0XmRcc0TJve_Oj4pnjxgtZ8fA-fLUeL0cU06IwoEiExVj_.14oliHjFmPWRph27"><strong>Zoom</strong></a> <em>No notes</em>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/Up3-TqndeKX8zWvyyRQhLwzNfveT2rQnCI0XmRcc0TJve_Oj4pnjxgtZ8fA-fLUeL0cU06IwoEiExVj_.14oliHjFmPWRph27"><strong>Recording</strong></a> <em>No notes</em>
       </td>
       <td></td>
       <td>September 30<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React 2</a></span><br />
-        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065">Stream</a> <a target="_blank" href="">Zoom</a> <a>Notes</a>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065">Stream</a> <a target="_blank" href="">Recording </a> <a>Notes</a>
       </td>
       <td>October 1<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1361137">Javascript &beta;</a></span>
