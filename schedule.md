@@ -96,7 +96,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Interaction Design</a></span>
       </td>
       <td>October 8<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">React 1 &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/273395/assignments/1366186">React 1 &alpha;</a></span>
       </td>
     </tr>
     <tr>
