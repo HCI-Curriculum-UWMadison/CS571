@@ -81,7 +81,7 @@ To provide students with complete course content, the links below provide course
       <td></td>
       <td>September 30<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/04-Build-React-2.pdf">React 2</a></span><br />
-        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="">Recording </a> <a>Notes</a>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/1maFeh7HcvLO-L19Fik2rG4oDUP_aoyGaW83p3eHf5dKbOXpmEZX6GmPEXIpYlkESMde-73_G44B3v-y.OkYXIJU22j3j95_c"><strong>Recording</strong></a>
       </td>
       <td>October 1<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1361137">Javascript &beta;</a></span>
@@ -89,11 +89,13 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>October 5<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Web Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Web Design</a></span><br />
+        <a target="_blank" href="">Stream</a> <a target="_blank" href="">Recording</a> <a target="_blank" href="">Notes</a>
       </td>
       <td></td>
       <td>October 7<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Interaction Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Interaction Design</a></span><br />
+        <a target="_blank" href="">Stream</a> <a target="_blank" href="">Recording</a> <a target="_blank" href="">Notes</a>
       </td>
       <td>October 8<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/273395/assignments/1366186">React 1 &alpha;</a></span>
