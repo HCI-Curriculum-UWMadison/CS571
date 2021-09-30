@@ -80,8 +80,8 @@ To provide students with complete course content, the links below provide course
       </td>
       <td></td>
       <td>September 30<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React 2</a></span><br />
-        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065">Stream</a> <a target="_blank" href="">Recording </a> <a>Notes</a>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/04-Build-React-2.pdf">React 2</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="">Recording </a> <a>Notes</a>
       </td>
       <td>October 1<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1361137">Javascript &beta;</a></span>
