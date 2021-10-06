@@ -90,7 +90,7 @@ To provide students with complete course content, the links below provide course
     <tr>
       <td>October 5<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/05-Design-Web-Design.pdf">Web Design</a></span><br />
-        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="">Recording</a> <a target="_blank" href="">Notes</a>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/vxRmq6hrXXnH6Qj6I2xRbRoRWgoeRyNX4cD8ehdoIo3T8sf3NX0uISNwFG-AZFCUgMnWBHUek4MlE5U1.M5BYLYJXG2s9Olkd"><strong>Recording</strong></a>
       </td>
       <td></td>
       <td>October 7<br />
