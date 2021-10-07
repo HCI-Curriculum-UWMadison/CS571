@@ -94,8 +94,8 @@ To provide students with complete course content, the links below provide course
       </td>
       <td></td>
       <td>October 7<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Interaction Design</a></span><br />
-        <a target="_blank" href="">Stream</a> <a target="_blank" href="">Recording</a> <a target="_blank" href="">Notes</a>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/05-Design-Interaction-Design.pdf">Interaction Design</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="">Recording</a> <a target="_blank" href="">Notes</a>
       </td>
       <td>October 8<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/273395/assignments/1366186">React 1 &alpha;</a></span>
