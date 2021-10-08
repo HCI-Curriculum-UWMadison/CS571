@@ -37,31 +37,35 @@ Instructional team office hours will follow the schedule below between **Septemb
 
 <table>
     <thead>
-    <th>Monday</td>
-    <th>Tuesday</td>
-    <th>Wednesday</td>
-    <th>Thursday</td>
-    <th>Friday</td>
+    <tr>
+        <th>Monday</td>
+        <th>Tuesday</td>
+        <th>Wednesday</td>
+        <th>Thursday</td>
+        <th>Friday</td>
+    </tr>
     </thead>
     <tbody>
-    </tr>
-    <td>1:00-3:00 PM: Brandon</td>
-    <td>1:30-3:30 PM: Ilkyu</td>
-    <td>10:00-12:00 PM: Sujitha</td>
-    <td>2:30-4:30 PM: Salman</td>
-    <td>10:00-12:00 PM: Sujitha</td>
-    </tr>
-    <td>4:30-6:30 PM: Yuren</td>
-    <td>3:30-5:30 PM: Salman&nbsp;</td>
-    <td>2:00-4:00 PM: Brandon</td>
-    <td>5:00-6:00 PM: Professor Zhao</td>
-    <td>3:00-5:00 PM: Yuren&nbsp;</td>
-    </tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>5:30-7:30 PM: Ilkyu</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    </tr>
+        <tr>
+        <td>1:00-3:00 PM: Brandon</td>
+        <td>1:30-3:30 PM: Ilkyu</td>
+        <td>10:00-12:00 PM: Sujitha</td>
+        <td>2:30-4:30 PM: Salman</td>
+        <td>10:00-12:00 PM: Sujitha</td>
+        </tr>
+        <tr>
+        <td>4:30-6:30 PM: Yuren</td>
+        <td>3:30-5:30 PM: Salman&nbsp;</td>
+        <td>2:00-4:00 PM: Brandon</td>
+        <td>5:00-6:00 PM: Professor Zhao</td>
+        <td>3:00-5:00 PM: Yuren&nbsp;</td>
+        </tr>
+        <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>5:30-7:30 PM: Ilkyu</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        </tr>
     </tbody>
 </table>
