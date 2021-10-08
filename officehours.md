@@ -37,13 +37,13 @@ Instructional team office hours will follow the schedule below between **Septemb
 
 <table>
     <thead>
-    <tr>
-        <th>Monday</td>
-        <th>Tuesday</td>
-        <th>Wednesday</td>
-        <th>Thursday</td>
-        <th>Friday</td>
-    </tr>
+        <tr>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+        </tr>
     </thead>
     <tbody>
         <tr>
