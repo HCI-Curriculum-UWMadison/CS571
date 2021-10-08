@@ -45,7 +45,7 @@ Instructional team office hours will follow the schedule below between **Septemb
             <th><strong>Friday</strong></th>
         </tr>
     </thead>
-    <tbody>
+    <tbody class="text-center">
         <tr>
             <td>
                 1:00-3:00 PM:<br />Brandon
@@ -79,16 +79,46 @@ Instructional team office hours will follow the schedule below between **Septemb
             </td>
         </tr>
         <tr>
-            <td>4:30-6:30 PM:<br />Yuren</td>
-            <td>3:30-5:30 PM:<br />Salman&nbsp;</td>
-            <td>2:00-4:00 PM:<br />Brandon</td>
-            <td>5:00-6:00 PM:<br />Professor Zhao</td>
-            <td>3:00-5:00 PM:<br />Yuren&nbsp;</td>
+            <td>
+                4:30-6:30 PM:<br />Yuren
+                <span class="fs-3">
+                    <a class="btn" target="_blank" href="https://teams.microsoft.com/l/meetup-join/19%3alPXH5jeZKL7HaSjjo3QDECKCsh7nFv5EUfqqp7sAPA01%40thread.tacv2/1630641845238?context=%7b%22Tid%22%3a%222ca68321-0eda-4908-88b2-424a8cb4b0f9%22%2c%22Oid%22%3a%227056d694-4650-43d5-ac29-f8ff448e9467%22%7d">Join on Teams</a>
+                </span>
+            </td>
+            <td>
+                3:30-5:30 PM:<br />Salman
+                <span class="fs-3">
+                    <a class="btn" target="_blank" href="https://teams.microsoft.com/l/meetup-join/19%3alPXH5jeZKL7HaSjjo3QDECKCsh7nFv5EUfqqp7sAPA01%40thread.tacv2/1630475734737?context=%7b%22Tid%22%3a%222ca68321-0eda-4908-88b2-424a8cb4b0f9%22%2c%22Oid%22%3a%22a16828f1-52a2-4c7b-8df3-15548e9662a4%22%7d">Join on Teams</a>
+                </span>
+            </td>
+            <td>
+                2:00-4:00 PM:<br />Brandon
+                <span class="fs-3">
+                    <a class="btn" target="_blank" href="https://teams.microsoft.com/l/meetup-join/19%3alPXH5jeZKL7HaSjjo3QDECKCsh7nFv5EUfqqp7sAPA01%40thread.tacv2/1631050596976?context=%7b%22Tid%22%3a%222ca68321-0eda-4908-88b2-424a8cb4b0f9%22%2c%22Oid%22%3a%221b5ef65f-0350-4aa6-a138-6eb025de5f30%22%7d">Join on Teams</a>
+                </span>
+            </td>
+            <td>
+                5:00-6:00 PM:<br />Professor Zhao
+                <span class="fs-3">
+                    <a class="btn" target="_blank" href="https://teams.microsoft.com/l/meetup-join/19%3alPXH5jeZKL7HaSjjo3QDECKCsh7nFv5EUfqqp7sAPA01%40thread.tacv2/1631817795354?context=%7b%22Tid%22%3a%222ca68321-0eda-4908-88b2-424a8cb4b0f9%22%2c%22Oid%22%3a%22b7f81268-9cad-49d8-876e-ba33247e3d77%22%7d">Join on Teams</a>
+                </span>
+            </td>
+            <td>
+                3:00-5:00 PM:<br />Yuren
+                <span class="fs-3">
+                    <a class="btn" target="_blank" href="https://teams.microsoft.com/l/meetup-join/19%3alPXH5jeZKL7HaSjjo3QDECKCsh7nFv5EUfqqp7sAPA01%40thread.tacv2/1630883827975?context=%7b%22Tid%22%3a%222ca68321-0eda-4908-88b2-424a8cb4b0f9%22%2c%22Oid%22%3a%227056d694-4650-43d5-ac29-f8ff448e9467%22%7d">Join on Teams</a>
+                </span>
+            </td>
         </tr>
         <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
-            <td>5:30-7:30 PM:<br />Ilkyu</td>
+            <td>
+                5:30-7:30 PM:<br />Ilkyu
+                <span class="fs-3">
+                    <a class="btn" target="_blank" href="https://teams.microsoft.com/l/meetup-join/19%3alPXH5jeZKL7HaSjjo3QDECKCsh7nFv5EUfqqp7sAPA01%40thread.tacv2/1630947324150?context=%7b%22Tid%22%3a%222ca68321-0eda-4908-88b2-424a8cb4b0f9%22%2c%22Oid%22%3a%2253597760-419d-477d-bee5-a87485677969%22%7d">Join on Teams</a>
+                </span>
+            </td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
         </tr>
