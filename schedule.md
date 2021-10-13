@@ -126,7 +126,7 @@ To provide students with complete course content, the links below provide course
         <a target="_blank" href="">Stream</a> <a target="_blank" href="">Recording</a> <a target="_blank" href="">Notes</a>
       </td>
       <td>October 22<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">React 2 &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/273395/assignments/1374351">React 2 &alpha;</a></span>
       </td>
     </tr>
     <tr>
