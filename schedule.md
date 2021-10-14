@@ -109,7 +109,7 @@ To provide students with complete course content, the links below provide course
       <td></td>
       <td>October 14<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/06-Build-React-4.pdf">React 4</a></span><br />
-        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="">Recording</a> <a target="_blank" href="">Notes</a>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/_P-C9oBzp50yPlq2-mnHQ53niuUT1Ya9u5mFKweYGs64wo0WUcNuC-RigxHp5gToqNv1A4vJXfd4NjVS.1mozZgGVvKFSyG27"><strong>Recording</strong></a>
       </td>
       <td>October 15<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1370284">React 1 &beta;</a></span>
