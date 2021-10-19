@@ -118,7 +118,7 @@ To provide students with complete course content, the links below provide course
     <tr>
       <td>October 19<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/07-Design-Patterns.pdf">Design Patterns</a></span><br />
-        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="">Recording</a> <a target="_blank" href="">Notes</a>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a> <a target="_blank" href="https://uwmadison.zoom.us/rec/play/pPVwU5sykdhsIy-Gaqhe14WIgq078f9QajcaF_4opARMUViJKiCfA82LAo81jyN6KO1l_dXSoZc0WPto.vrNT4Kz17ef9vObh"><strong>Recording</strong></a>
       </td>
       <td></td>
       <td>October 21<br />
