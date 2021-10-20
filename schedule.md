@@ -134,7 +134,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 1</a></span>
       </td>
       <td>October 27<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React 2 &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1378125">React 2 &beta;</a></span>
       </td>
       <td>October 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span> <br />
