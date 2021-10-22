@@ -136,9 +136,8 @@ To provide students with complete course content, the links below provide course
       <td>October 27<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1378125">React 2 &beta;</a></span>
       </td>
-      <td>October 28<br />
+      <td>October 28 <strong><a href="#midterm">Midterm</a></strong><br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span> <br />
-        <strong><a href="#midterm">Midterm</a></strong>
       </td>
       <td>October 29<br />
         <strong><a href="#midterm">Alt. Midterm</a></strong>
@@ -257,7 +256,7 @@ The midterm exam will be held on **Thursday, October 28, 2021 from 7:15 PM until
     <td><a href="https://www.map.wisc.edu/?initObj=0048" target="_blank">Van Vleck B102</a></td>
   </tr>
   <tr>
-    <td>Alternative</td>
+    <td><strong>Alternative</strong></td>
     <td>Friday, October 29, 2021 7:15 PM - 8:45 PM</td>
     <td><a href="https://www.map.wisc.edu/?initObj=0470" target="_blank">Psychology 103</a></td>
   </tr>
