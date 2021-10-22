@@ -138,10 +138,10 @@ To provide students with complete course content, the links below provide course
       </td>
       <td>October 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span> <br />
-        <strong>Midterm (7:15-9:15pm, Van Vleck B102)</strong>
+        <strong><a href="#midterm">Midterm (7:15-9:15pm)</a></strong>
       </td>
       <td>October 29<br />
-        <strong>Midterm alternative (7:15-9:15pm, Psych 103)</strong>
+        <strong><a href="#midterm">Midterm alternative (7:15pm-9:15pm)</a></strong>
       </td>
     </tr>
     <tr>
@@ -251,12 +251,12 @@ All lectures prior to and including **Heuristic Evaluation (October 21st)** are 
   <tr>
     <td>Main</td>
     <td>October 28, 2021 7:15 PM - 8:45 PM</td>
-    <td>[Van Vleck B102](https://www.map.wisc.edu/?initObj=0048)</td>
+    <td><a href="https://www.map.wisc.edu/?initObj=0048" target="_blank" />Van Vleck B102</a></td>
   </tr>
   <tr>
     <td>Alternative</td>
     <td>October 29, 2021 7:15 PM - 8:45 PM</td>
-    <td>[Psychology 103](https://www.map.wisc.edu/?initObj=0470)</td>
+    <td><a href="https://www.map.wisc.edu/?initObj=0470" target="_blank" />Psychology 103</a></td>
   </tr>
 </tbody>
 </table>
