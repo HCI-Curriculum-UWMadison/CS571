@@ -138,10 +138,10 @@ To provide students with complete course content, the links below provide course
       </td>
       <td>October 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span> <br />
-        <strong>Midterm (7:15-9:15pm)</strong>
+        <strong>Midterm (7:15-9:15pm, Van Vleck B102)</strong>
       </td>
       <td>October 29<br />
-        <strong>Midterm alternative (7:15-9:15pm)</strong>
+        <strong>Midterm alternative (7:15-9:15pm, Psych 103)</strong>
       </td>
     </tr>
     <tr>
