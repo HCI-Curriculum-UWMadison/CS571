@@ -235,6 +235,32 @@ To provide students with complete course content, the links below provide course
   </tbody>
 </table>
 
+### Midterm
+
+All lectures prior to and including **Heuristic Evaluation (October 21st)** are fair game.
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th>Day/Time<br></th>
+    <th>Room</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Main</td>
+    <td>October 28, 2021 7:15 PM - 8:45 PM</td>
+    <td>[Van Vleck B102](https://www.map.wisc.edu/?initObj=0048)</td>
+  </tr>
+  <tr>
+    <td>Alternative</td>
+    <td>October 29, 2021 7:15 PM - 8:45 PM</td>
+    <td>[Psychology 103](https://www.map.wisc.edu/?initObj=0470)</td>
+  </tr>
+</tbody>
+</table>
+
 ---
 
 🎉 🥳 🎊 Congratulations! You made it to the end of the semester!
