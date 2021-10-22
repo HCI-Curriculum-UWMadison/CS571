@@ -237,6 +237,8 @@ To provide students with complete course content, the links below provide course
 
 ### Midterm
 
+The midterm exam will be held on **Thursday, October 28, 2021 from 7:15 PM until 8:45 PM** in **the Van Vleck Building Room B102**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
+
 All lectures prior to and including **Heuristic Evaluation (October 21st)** are fair game.
 
 <table>
@@ -249,13 +251,13 @@ All lectures prior to and including **Heuristic Evaluation (October 21st)** are 
 </thead>
 <tbody>
   <tr>
-    <td>Main</td>
-    <td>October 28, 2021 7:15 PM - 8:45 PM</td>
+    <td><strong>Main</strong></td>
+    <td>Thursday, October 28, 2021 7:15 PM - 8:45 PM</td>
     <td><a href="https://www.map.wisc.edu/?initObj=0048" target="_blank">Van Vleck B102</a></td>
   </tr>
   <tr>
     <td>Alternative</td>
-    <td>October 29, 2021 7:15 PM - 8:45 PM</td>
+    <td>Friday, October 29, 2021 7:15 PM - 8:45 PM</td>
     <td><a href="https://www.map.wisc.edu/?initObj=0470" target="_blank">Psychology 103</a></td>
   </tr>
 </tbody>
