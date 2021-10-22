@@ -239,7 +239,8 @@ To provide students with complete course content, the links below provide course
 
 The midterm exam will be held on **Thursday, October 28, 2021 from 7:15 PM until 8:45 PM** in **the Van Vleck Building Room B102**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
 
-All lectures prior to and including **Heuristic Evaluation (October 21st)** are fair game.
+- The exam will cover all course materials prior to and including **Heuristic Evaluation (October 21st)**. 
+- We recommend referring to the lecture slides and <a href="https://docs.google.com/document/d/1a6P7IpE02zxw--iG3uvIk_gedjnpNFO-adVW6atDAKc/edit?usp=sharing">past quizzes</a>.
 
 <table>
 <thead>
