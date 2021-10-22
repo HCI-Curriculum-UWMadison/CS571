@@ -138,10 +138,10 @@ To provide students with complete course content, the links below provide course
       </td>
       <td>October 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span> <br />
-        <strong><a href="#midterm">Midterm<br />(7:15-9:15pm)</a></strong>
+        <strong><a href="#midterm">Midterm</a></strong>
       </td>
       <td>October 29<br />
-        <strong><a href="#midterm">Midterm alternative<br />(7:15pm-9:15pm)</a></strong>
+        <strong><a href="#midterm">Alt. Midterm</a></strong>
       </td>
     </tr>
     <tr>
