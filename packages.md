@@ -18,7 +18,7 @@ If you would like to use a package, send a message on Teams and we will consider
 
 ### React-Native
 
-- [React-Navigation](https://reactnavigation.org/en/){: .btn .btn-green }
+- [React-Navigation](https://reactnavigation.org/docs/getting-started/){: .btn .btn-green }
 - [React-Native-Elements](https://react-native-elements.github.io/react-native-elements/){: .btn .btn-green }
 - [React-Native-Datepicker](https://github.com/xgfe/react-native-datepicker){: .btn .btn-green }
 - [React-Native-Datetimepicker](https://github.com/react-native-community/react-native-datetimepicker){: .btn .btn-green }
