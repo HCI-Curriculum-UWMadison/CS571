@@ -131,13 +131,17 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>October 26<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 1</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/08-Build-React-Native-1.pdf">React Native 1</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
+        <a target="_blank" href="">Recording</a>
       </td>
       <td>October 27<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1378125">React 2 &beta;</a></span>
       </td>
       <td>October 28 <strong><a href="#midterm">Midterm</a></strong><br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span> <br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065">Stream</a>
+        <a target="_blank" href="">Recording</a>
       </td>
       <td>October 29<br />
         <strong><a href="#midterm">Alt. Midterm</a></strong>
@@ -238,7 +242,7 @@ To provide students with complete course content, the links below provide course
 
 The midterm exam will be held on **Thursday, October 28, 2021 from 7:15 PM until 8:45 PM** in **the Van Vleck Building Room B102**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
 
-- The exam will cover all course materials prior to and including **Heuristic Evaluation (Oct 21)**. 
+- The exam will cover all course materials prior to and including **Heuristic Evaluation (Oct 21)**.
 - We recommend referring to the lecture slides and <a href="https://docs.google.com/document/d/1a6P7IpE02zxw--iG3uvIk_gedjnpNFO-adVW6atDAKc/edit?usp=sharing">past quizzes</a> for studying the materials.
 
 <table>
