@@ -156,7 +156,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Prototyping</a></span>
       </td>
       <td>November 5<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">React Native 1 &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/273395/assignments/1381574">React Native 1 &alpha;</a></span>
       </td>
     </tr>
     <tr>
