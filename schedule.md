@@ -141,7 +141,7 @@ To provide students with complete course content, the links below provide course
       <td>October 28 <strong><a href="#midterm">Midterm</a></strong><br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/08-Build-React-Native-2.pdf">React Native 2</a></span> <br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
-        <a target="_blank" href="">Recording</a>
+        <a target="_blank" href="https://uwmadison.zoom.us/rec/play/UeYAGfjZq8_uyghxwyGyXtYiu_sRUu_jFxDQVo0nWtQtByTJ4lmKzXyt-37YdxhyEp1KHqdhYc696DwY.Cyd6MZJLMQODCAQa"><strong>Recording</strong></a>
       </td>
       <td>October 29<br />
         <strong><a href="#midterm">Alt. Midterm</a></strong>
