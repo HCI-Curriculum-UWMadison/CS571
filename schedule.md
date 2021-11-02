@@ -149,11 +149,15 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>November 2<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Mobile Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/09-Platform-Mobile-Design.pdf">Mobile Design</a></span>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
+        <a target="_blank" href="">Recording</a>
       </td>
       <td></td>
       <td>November 4<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Prototyping</a></span>
+        <a target="_blank" href="">Stream</a>
+        <a target="_blank" href="">Recording</a>
       </td>
       <td>November 5<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/273395/assignments/1381574">React Native 1 &alpha;</a></span>
