@@ -15,6 +15,7 @@ If you would like to use a package, send a message on Teams and we will consider
 - [React-Tabs](https://github.com/reactjs/react-tabs){: .btn .btn-green }
 - [ReactJS-Popup](https://www.npmjs.com/package/reactjs-popup){: .btn .btn-green }
 - [Lodash](https://www.npmjs.com/package/lodash){: .btn .btn-green }
+- [React-Icons](https://react-icons.github.io/react-icons/){: .btn .btn-green }
 
 ### React-Native
 
