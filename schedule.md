@@ -151,7 +151,7 @@ To provide students with complete course content, the links below provide course
       <td>November 2<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/09-Platform-Mobile-Design.pdf">Mobile Design</a></span> <br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
-        <a target="_blank" href="">Recording</a>
+        <a target="_blank" href="https://uwmadison.zoom.us/rec/play/Z9CMpsMURADcrWHxsyLgAGYiVdsO73g-gpUpDKpTik_93rGV-qOU0UasSyEoAYaPpS-ucE50gqq4dgr4._5oHAPGd0-219enf"><strong>Recording</strong></a>
       </td>
       <td></td>
       <td>November 4<br />
