@@ -157,7 +157,7 @@ To provide students with complete course content, the links below provide course
       <td>November 4<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/09-Design-Prototyping.pdf">Prototyping</a></span> <br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
-        <a target="_blank" href="">Recording</a>
+        <a target="_blank" href="https://uwmadison.zoom.us/rec/play/AuIxtI_vlFIJzqkKAzZjkzrLHNyAjaFkgX386van-yDDtHLAbf3oqZ8QvbprfUuGtkDNcYru2OsJJu7V.zagxu9-ej5iQ-PGp"><strong>Recording</strong></a>
       </td>
       <td>November 5<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/273395/assignments/1381574">React Native 1 &alpha;</a></span>
@@ -172,7 +172,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Accessible Design</a><br /></span>
       </td>
       <td>November 12<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React Native 1 &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1384706">React Native 1 &beta;</a></span>
       </td>
     </tr>
     <tr>
