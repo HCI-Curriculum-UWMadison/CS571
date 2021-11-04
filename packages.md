@@ -36,3 +36,8 @@ If you would like to use a package, send a message on Teams and we will consider
 - [Lodash](https://www.npmjs.com/package/lodash){: .btn .btn-green }
 - [MomentJS](https://medium.com/better-programming/using-moment-js-in-react-native-d1b6ebe226d4){: .btn .btn-green }
 - [React-Native-Blur](https://github.com/react-native-community/react-native-blur){: .btn .btn-green }
+- [Galio](https://www.npmjs.com/package/galio-framework){: .btn .btn-green}
+
+### Others
+
+- [TypeScript](https://www.typescriptlang.org/)
