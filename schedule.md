@@ -167,7 +167,7 @@ To provide students with complete course content, the links below provide course
       <td>November 9<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/10-Build-React-Native-3.pdf">React Native 3</a></span> <br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
-        <a target="_blank" href="">Recording</a>
+        <a target="_blank" href="https://uwmadison.zoom.us/rec/play/vBGU8aXAMsZPFrbEDCQwmHaaQ9ZGSrWyXhq4na0GBoPZPuwiJ3R9gH7YuflZTl0X6MoMniDHZ1qk85MP.3uUs9MKjw5sCMGG2"><strong>Recording</strong></a>
       </td>
       <td></td>
       <td>November 11<br />
