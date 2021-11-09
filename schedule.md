@@ -171,7 +171,7 @@ To provide students with complete course content, the links below provide course
       </td>
       <td></td>
       <td>November 11<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Accessible Design</a><br /></span> <br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Accessible Design</a></span> <br />
         <a target="_blank" href="">Stream</a>
         <a target="_blank" href="">Recording</a>
       </td>
