@@ -165,11 +165,15 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>November 9<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 3</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/10-Build-React-Native-3.pdf">React Native 3</a></span> <br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
+        <a target="_blank" href="">Recording</a>
       </td>
       <td></td>
       <td>November 11<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Accessible Design</a><br /></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Accessible Design</a><br /></span> <br />
+        <a target="_blank" href="">Stream</a>
+        <a target="_blank" href="">Recording</a>
       </td>
       <td>November 12<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1384706">React Native 1 &beta;</a></span>
