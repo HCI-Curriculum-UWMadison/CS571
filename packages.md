@@ -32,12 +32,14 @@ If you would like to use a package, send a message on Teams and we will consider
 - [React-Redux](https://react-redux.js.org/){: .btn .btn-green }
 - [Pluralize](https://www.npmjs.com/package/pluralize){: .btn .btn-green }
 - [Base-64](https://www.npmjs.com/package/base-64){: .btn .btn-green }
-- [Async-Storage](https://github.com/react-native-community/async-storage){: .btn .btn-green }
+- [Async-Storage](https://react-native-async-storage.github.io/async-storage/){: .btn .btn-green }
 - [Lodash](https://www.npmjs.com/package/lodash){: .btn .btn-green }
 - [MomentJS](https://medium.com/better-programming/using-moment-js-in-react-native-d1b6ebe226d4){: .btn .btn-green }
 - [React-Native-Blur](https://github.com/react-native-community/react-native-blur){: .btn .btn-green }
 - [Galio](https://www.npmjs.com/package/galio-framework){: .btn .btn-green}
+- [React-Native-Keyboard-Aware-Scroll-View](https://github.com/APSL/react-native-keyboard-aware-scroll-view){: .btn .btn-green}
 
 ### Others
 
-- [TypeScript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/){: .btn .btn-green }
+- [Axios](https://axios-http.com/){: .btn .btn-green}
