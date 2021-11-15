@@ -173,7 +173,7 @@ To provide students with complete course content, the links below provide course
       <td>November 11<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/10-Design-Accessible-Design.pdf">Accessible Design</a></span> <br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
-        <a target="_blank" href="">Recording</a>
+        <a target="_blank" href="https://uwmadison.zoom.us/rec/play/QLw5Z57S6JFKyFa_1hTtbHHXSn9J3xOeCNAXoWMMb8G8eO8Uk9RxgiVs03275JsS5MvuGPQj-_zpP_Cs.pZx8WpzXxV_1ocME"><strong>Recording</strong></a>
       </td>
       <td>November 12<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1384706">React Native 1 &beta;</a></span>
@@ -181,11 +181,15 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>November 16<br />
-      <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">VUI Design</a></span>
+      <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">VUI Design</a></span> <br />
+        <a target="_blank" href="">Stream</a>
+        <a target="_blank" href="">Recording</a>
       </td>
       <td></td>
       <td>November 18<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experience Prototyping</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experience Prototyping</a></span> <br />
+        <a target="_blank" href="">Stream</a>
+        <a target="_blank" href="">Recording</a>
       </td>
       <td>November 19<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/273395/assignments/1387915">React Native 2 &alpha;</a></span>
@@ -193,7 +197,9 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>November 23<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 1</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 1</a></span> <br />
+        <!-- <a target="_blank" href="">Stream</a>
+        <a target="_blank" href="">Recording</a> -->
       </td>
       <td>November 24<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React Native 2 &beta;</a></span>
@@ -206,7 +212,9 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>November 30<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span> <br />
+        <!-- <a target="_blank" href="">Stream</a>
+        <a target="_blank" href="">Recording</a> -->
       </td>
       <td>
       </td>
