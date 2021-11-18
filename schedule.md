@@ -181,14 +181,14 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>November 16<br />
-      <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/11-Design-VUI-Design.pdf"><strong>VUI Design</strong></a></span> <br />
+      <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/11-Design-VUI-Design.pdf">VUI Design</a></span> <br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
         <a target="_blank" href="https://uwmadison.zoom.us/rec/play/FkeXG38ayOoA-QydkcHHESZoI92A8YE9BWn4Xge_FMLFUx0WSQyaGAhz8Ju9PH9Xoxn_HHdhxIwZN-Zt.br9ZA0gc59EB2eK1"><strong>Recording</strong></a>
       </td>
       <td></td>
       <td>November 18<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experience Prototyping</a></span> <br />
-        <a target="_blank" href="">Stream</a>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/11-Design-Experience-Prototyping.pdf">Experience Prototyping</a></span> <br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
         <a target="_blank" href="">Recording</a>
       </td>
       <td>November 19<br />
