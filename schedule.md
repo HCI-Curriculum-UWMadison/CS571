@@ -202,7 +202,7 @@ To provide students with complete course content, the links below provide course
         <a target="_blank" href="">Recording</a> -->
       </td>
       <td>November 24<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React Native 2 &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1390561">React Native 2 &beta;</a></span>
       </td>
       <td>November 25<br />
         <!--<span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span><br /> -->
