@@ -197,9 +197,9 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>November 23<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 1</a></span> <br />
-        <!-- <a target="_blank" href="">Stream</a>
-        <a target="_blank" href="">Recording</a> -->
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/12-Build-Dialogflow-1.pdf">Dialogflow 1</a></span> <br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
+        <a target="_blank" href="">Recording</a>
       </td>
       <td>November 24<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1390561">React Native 2 &beta;</a></span>
@@ -219,13 +219,17 @@ To provide students with complete course content, the links below provide course
       <td>
       </td>
       <td>December 2<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Usability Evaluation</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Usability Evaluation</a></span> <br />
+        <!-- <a target="_blank" href="">Stream</a>
+        <a target="_blank" href="">Recording</a> -->
       </td>
       <td></td>
     </tr>
     <tr>
       <td>December 7<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Designing Agents</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Designing Agents</a></span> <br />
+        <!-- <a target="_blank" href="">Stream</a>
+        <a target="_blank" href="">Recording</a> -->
       </td>
       <td> </td>
       <td></td>
