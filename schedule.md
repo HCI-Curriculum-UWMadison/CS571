@@ -214,7 +214,7 @@ To provide students with complete course content, the links below provide course
       <td>November 30<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/12-Build-Dialogflow-2.pdf">Dialogflow 2</a></span> <br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
-        <a target="_blank" href="">Recording</a>
+        <a target="_blank" href="https://uwmadison.zoom.us/rec/play/TLCEk_SRYqdgbMLgmAzNudKLyPxjOPTGhlSQFWSG-Q4MatmqLXmm-xdFABBn6_E0EbOM5PeiOSax2U5g.7DQpeRJ1emj-pyBu"><strong>Recording</strong></a>
       </td>
       <td>
       </td>
@@ -234,17 +234,17 @@ To provide students with complete course content, the links below provide course
       <td> </td>
       <td></td>
       <td>December 10<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">Dialogflow &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/273395/assignments/1398149">Dialogflow &alpha;</a></span>
       </td>    
     </tr>
     <tr>
       <td></td>
       <td>December 15<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">Dialogflow &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1398155">Dialogflow &beta;</a></span>
       </td>
       <td></td>
       <td>December 17<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-green-200 text-grey-lt-000" href="">Dialogflow &gamma;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-green-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/273395/assignments/1398156">Dialogflow &gamma;</a></span>
       </td> 
     </tr>
     <tr>
