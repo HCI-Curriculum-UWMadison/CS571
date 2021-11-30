@@ -212,16 +212,16 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>November 30<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span> <br />
-        <!-- <a target="_blank" href="">Stream</a>
-        <a target="_blank" href="">Recording</a> -->
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/12-Build-Dialogflow-1.pdf">Dialogflow 2</a></span> <br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
+        <a target="_blank" href="">Recording</a>
       </td>
       <td>
       </td>
       <td>December 2<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Usability Evaluation</a></span> <br />
-        <!-- <a target="_blank" href="">Stream</a>
-        <a target="_blank" href="">Recording</a> -->
+        <a target="_blank" href="">Stream</a>
+        <a target="_blank" href="">Recording</a>
       </td>
       <td></td>
     </tr>
