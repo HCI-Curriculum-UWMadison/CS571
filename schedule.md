@@ -229,8 +229,7 @@ To provide students with complete course content, the links below provide course
     <tr>
       <td>December 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Designing Agents</a></span> <br />
-        <!-- <a target="_blank" href="">Stream</a>
-        <a target="_blank" href="">Recording</a> -->
+        <a target="_blank" href="">Recording</a>
       </td>
       <td> </td>
       <td></td>
