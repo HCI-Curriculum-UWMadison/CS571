@@ -200,6 +200,7 @@ To provide students with complete course content, the links below provide course
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/12-Build-Dialogflow-1.pdf">Dialogflow 1</a></span> <br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
         <a target="_blank" href="https://uwmadison.zoom.us/rec/play/vL-Rr7NvC5ZFaxPhnD0TcwQpxx1wIDpGKPxcX1lacpt4wiQxY0wRu_vj20loe1vDKFVDXhlta74LZuL6._kGfJjJqqsY3pax-"><strong>Recording</strong></a>
+        <a target="_blank" href="lectures/12-Build-Dialogflow-1-annotated.pdf"><strong>Notes</strong></a>
       </td>
       <td>November 24<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/273395/assignments/1390561">React Native 2 &beta;</a></span>
