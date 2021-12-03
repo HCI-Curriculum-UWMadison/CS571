@@ -222,7 +222,7 @@ To provide students with complete course content, the links below provide course
       <td>December 2<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/13-Design-Usability-Evaluation.pdf">Usability Evaluation</a></span> <br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
-        <a target="_blank" href="">Recording</a>
+        <a target="_blank" href="https://uwmadison.zoom.us/rec/play/66mrHaU3GfAoqM9lfqvdlVhe3bpabXPFZy5v4BeDECGEi-J1XL0hg1u4HLE5C7jUs5r4EJ_pLwxpBIOC.u37MrH4HsukfDH30"><strong>Recording</strong></a>
       </td>
       <td></td>
     </tr>
