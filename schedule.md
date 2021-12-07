@@ -252,7 +252,7 @@ To provide students with complete course content, the links below provide course
       <td></td>
       <td></td>
       <td> December 23 <br />
-        <Strong>Final (12:25-2:25 pm)</Strong>
+        <a href="#final-exam"><Strong>Final (12:25-2:25 pm)</Strong></a>
       </td>
        <td></td>
     </tr>
@@ -295,7 +295,7 @@ The midterm exam will be held on <strong>Thursday, October 28, 2021 from 7:15 PM
 </details>
 
 ### Final Exam
-**Please sign up for the final exam using [this form](https://forms.gle/hERYPzTuJMrnLju3A)!**
+**Please sign up for the final exam using [this form](https://forms.gle/hERYPzTuJMrnLju3A).**
 
 The final exam will be held remotely on **Thursday, December 23, 2021 from 12:25 PM until 2:25 PM** via Zoom and Canvas. All students, unless signed up for the alternative session due to extenuating circumstances, are expected to attend the main session.
 
