@@ -295,9 +295,9 @@ The midterm exam will be held on <strong>Thursday, October 28, 2021 from 7:15 PM
 </details>
 
 ### Final Exam
-**Please sign up for the final exam using [this form](https://forms.gle/hERYPzTuJMrnLju3A).**
+**Please sign up for the final exam using [this form](https://forms.gle/hERYPzTuJMrnLju3A)!**
 
-The final exam will be held on **Thursday, December 23, 2021 from 12:25 PM until 2:25 PM** via Zoom and Canvas. All students, unless signed up for the alternative session due to extenuating circumstances, are expected to attend the main session.
+The final exam will be held remotely on **Thursday, December 23, 2021 from 12:25 PM until 2:25 PM** via Zoom and Canvas. All students, unless signed up for the alternative session due to extenuating circumstances, are expected to attend the main session.
 
 - The final exam is cumulative; it will cover all course materials prior to and including **Usability Evaluation (Dec 2)**.
 - 60% of the questions will come from materials after and including **React Native 1 (Oct 26)**. 
