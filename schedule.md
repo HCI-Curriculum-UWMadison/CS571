@@ -228,7 +228,8 @@ To provide students with complete course content, the links below provide course
     </tr>
     <tr>
       <td>December 7<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Designing Agents</a></span> <br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/14-Design-Designing-Agents.pdf">Designing Agents</a></span> <br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/273395/external_tools/14065"><strong>Stream</strong></a>
         <a target="_blank" href="">Recording</a>
       </td>
       <td> </td>
@@ -259,6 +260,40 @@ To provide students with complete course content, the links below provide course
 </table>
 
 ### Midterm
+<details>
+<summary>
+  Details
+</summary>
+The midterm exam will be held on **Thursday, October 28, 2021 from 7:15 PM until 8:45 PM** in **the Van Vleck Building Room B102**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
+
+- The exam will cover all course materials prior to and including **Heuristic Evaluation (Oct 21)**.
+- We recommend referring to the lecture slides and <a href="https://docs.google.com/document/d/1a6P7IpE02zxw--iG3uvIk_gedjnpNFO-adVW6atDAKc/edit?usp=sharing">past quizzes</a> for studying the materials.
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th>Day/Time<br></th>
+    <th>Room</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Main</strong></td>
+    <td>Thursday, October 28, 2021 7:15 PM - 8:45 PM</td>
+    <td><a href="https://www.map.wisc.edu/?initObj=0048" target="_blank">Van Vleck B102</a></td>
+  </tr>
+  <tr>
+    <td><strong>Alternative</strong></td>
+    <td>Friday, October 29, 2021 7:15 PM - 8:45 PM</td>
+    <td><a href="https://www.map.wisc.edu/?initObj=0470" target="_blank">Psychology 103</a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+### Final Exam
+https://forms.gle/hERYPzTuJMrnLju3A
 
 The midterm exam will be held on **Thursday, October 28, 2021 from 7:15 PM until 8:45 PM** in **the Van Vleck Building Room B102**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
 
