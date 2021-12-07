@@ -264,10 +264,12 @@ To provide students with complete course content, the links below provide course
 <summary>
   Details
 </summary>
-The midterm exam will be held on **Thursday, October 28, 2021 from 7:15 PM until 8:45 PM** in **the Van Vleck Building Room B102**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
+The midterm exam will be held on <strong>Thursday, October 28, 2021 from 7:15 PM until 8:45 PM</strong> in <strong>the Van Vleck Building Room B102</strong>. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
 
-- The exam will cover all course materials prior to and including **Heuristic Evaluation (Oct 21)**.
-- We recommend referring to the lecture slides and <a href="https://docs.google.com/document/d/1a6P7IpE02zxw--iG3uvIk_gedjnpNFO-adVW6atDAKc/edit?usp=sharing">past quizzes</a> for studying the materials.
+<ul>
+<li>The exam will cover all course materials prior to and including <strong>Heuristic Evaluation (Oct 21)</strong>.</li>
+<li>We recommend referring to the lecture slides and <a href="https://docs.google.com/document/d/1a6P7IpE02zxw--iG3uvIk_gedjnpNFO-adVW6atDAKc/edit?usp=sharing">past quizzes</a> for studying the materials.</li>
+</ul>
 
 <table>
 <thead>
@@ -293,31 +295,33 @@ The midterm exam will be held on **Thursday, October 28, 2021 from 7:15 PM until
 </details>
 
 ### Final Exam
-https://forms.gle/hERYPzTuJMrnLju3A
+**Please sign up for the final exam using [this form](https://forms.gle/hERYPzTuJMrnLju3A).**
 
-The midterm exam will be held on **Thursday, October 28, 2021 from 7:15 PM until 8:45 PM** in **the Van Vleck Building Room B102**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
+The final exam will be held on **Thursday, December 23, 2021 from 12:25 PM until 2:25 PM** via Zoom and Canvas. All students, unless signed up for the alternative session due to extenuating circumstances, are expected to attend the main session.
 
-- The exam will cover all course materials prior to and including **Heuristic Evaluation (Oct 21)**.
-- We recommend referring to the lecture slides and <a href="https://docs.google.com/document/d/1a6P7IpE02zxw--iG3uvIk_gedjnpNFO-adVW6atDAKc/edit?usp=sharing">past quizzes</a> for studying the materials.
+- The final exam is cumulative; it will cover all course materials prior to and including **Usability Evaluation (Dec 2)**.
+- 60% of the questions will come from materials after and including **React Native 1 (Oct 26)**. 
+- 40% of the questions will come from materials before and including **Heuristic Evaluation (Oct 21)**.
+- A detailed exam policy will be announced soon.
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th>Day/Time<br></th>
-    <th>Room</th>
+    <th>Location</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td><strong>Main</strong></td>
-    <td>Thursday, October 28, 2021 7:15 PM - 8:45 PM</td>
-    <td><a href="https://www.map.wisc.edu/?initObj=0048" target="_blank">Van Vleck B102</a></td>
+    <td>Thursday, December 23, 2021 12:25 PM - 2:25 PM</td>
+    <td><a href="" target="_blank">Zoom (Remote)</a></td>
   </tr>
   <tr>
     <td><strong>Alternative</strong></td>
-    <td>Friday, October 29, 2021 7:15 PM - 8:45 PM</td>
-    <td><a href="https://www.map.wisc.edu/?initObj=0470" target="_blank">Psychology 103</a></td>
+    <td>Wednesday, December 22, 2021 12:25 PM - 2:25 PM</td>
+    <td><a href="" target="_blank">Zoom (Remote)</a></td>
   </tr>
 </tbody>
 </table>
